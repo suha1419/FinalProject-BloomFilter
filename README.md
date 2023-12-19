@@ -1,5 +1,4 @@
 # CSCI 2270 – Final Project BLOOMFILTER
-## Sulman Haque, December 2023
 ## Overview
 
 In this project we implement a Scalable Bloom Filter in C++

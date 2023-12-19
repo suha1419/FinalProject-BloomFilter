@@ -32,7 +32,7 @@ This implementation uses three core classes.
 3) ScalableBloomFilter
 
 Bit arrays are created and managed by the BloomFilter. BloomFilters are created and managed by the ScalableBloomFilter.
-You need not use just the Scalable, as the orignial BloomFilter class will suffice if you requirements dont change.
+You need not use just the Scalable, as the orignial BloomFilter class will suffice if youR requirements dont change.
 
 1) Bit Array is a class that creates a bit array of size M, the fundamental data structure
     @params bits - bit array

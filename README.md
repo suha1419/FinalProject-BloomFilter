@@ -71,7 +71,8 @@ You need not use just the Scalable, as the orignial BloomFilter class will suffi
 
 ## Where to Start
 After having accepted your assignment in GitHub, _clone_ your private repository to your development environment.  We recommend that you use JupyterHub as your coding environment.
-You will need to run ```cmake``` from within the _build_ directory to create the rules for making the applications.  Next, run ```make``` to use those rules to actually build the executable from the source code.
+You will need to run ```cmake``` from within the _build_ directory to create the rules for making the applications. (YOU DONT NEED TO RUN CMAKE)
+Next, run ```make``` to use those rules to actually build the executable from the source code.
 There will be a local executable created that you can use.
 
 (Note: Tests are in the main file. Run ./run_app to see results)
